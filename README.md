@@ -1,3 +1,3 @@
-# Bilgi_Sistemleri-Sistem_Analizi_Tasarimi
+# BilgiSistemleri-SistemAnaliziveTasarimi
 PROJE ÖDEVİ
 OYUNCAK SEKTÖRÜNDE BİLGİ YÖNETİMİ, SÜREÇLERİ VE AKIŞLARI SİSTEM ANALİZİ VE TASARIMI RAPORU
